@@ -2,11 +2,7 @@
 title: Your awesome title
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-<<<<<<< HEAD
-baseurl: "http://lbianchin.github.io/jekyll-testsite/"
-=======
-baseurl: "/jekyll-testsite"
->>>>>>> 876be5c5f75e0fc68410dc654e87da1e5aeac724
+baseurl: ""
 url: "http://lbianchin.github.io/jekyll-testsite"
 twitter_username: jekyllrb
 github_username:  jekyll
